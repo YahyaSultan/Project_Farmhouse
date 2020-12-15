@@ -1,0 +1,88 @@
+
+.Pictures{
+
+    width: 100%;
+
+
+}
+
+.Pictures img{
+
+    width: 100%;
+    height: 250px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    
+}
+
+
+.Shadow{
+
+    -webkit-box-shadow: 1px 1px 20px -9px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 20px -9px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 20px -9px rgba(0,0,0,0.75);
+
+    border-radius: 10px;
+    height: 300px;
+}
+
+.LogoFarm {
+
+    width: 100%;
+    height: 100%;
+    margin-top: 30px;
+
+}
+
+
+.LogoFarm img {
+
+    width: 30%;
+    height: 50px;
+}
+
+.greenpool {
+
+    width: 100%;
+    height: 100%;
+    
+
+}
+
+
+.greenpool img {
+
+    width: 100%;
+    height: 250px;
+}
+
+.greenfarmpool{
+    width: 100%;
+    height: 100%;
+
+}
+
+@media (max-width: 600px) {
+
+.Shadow{
+
+
+  width: 90%;
+}
+
+.domimg{
+
+    width: 100%;
+    
+  
+  }
+  
+  .domimg img{
+  
+   width: 50%;
+   height: 150px;
+   margin-top: 20px;
+  }
+
+}
+
